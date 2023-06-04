@@ -16,22 +16,37 @@ SpendWise is an Android application built in Java for managing expenses and trac
 
 ### Login  
 
-<img src="https://github.com/Jain-Sumit/SpendWise/assets/106157826/f4bc614b-52f6-47c8-812c-f4f0a5c02b74" width="250" height="700" alt="Login Page">
+<img src="https://github.com/Jain-Sumit/SpendWise/assets/106157826/f4bc614b-52f6-47c8-812c-f4f0a5c02b74" width="300" height="650" alt="Login Page">
 
 ### Dashboard
 
-<img src="https://github.com/Jain-Sumit/SpendWise/assets/106157826/ecaa9377-69bd-4709-852d-33c1eba7f12d" width="250" height="700" alt="Dashboard">
+<img src="https://github.com/Jain-Sumit/SpendWise/assets/106157826/ecaa9377-69bd-4709-852d-33c1eba7f12d" width="300" height="650" alt="Dashboard">
 
 
 ### Add Transaction
 
-<img src="https://github.com/Jain-Sumit/SpendWise/assets/106157826/72a261f9-4d7f-4f4d-9738-a88e2ef0590f" width="250" height="700" alt="Add Transaction">
+<img src="https://github.com/Jain-Sumit/SpendWise/assets/106157826/72a261f9-4d7f-4f4d-9738-a88e2ef0590f" width="300" height="650" alt="Add Transaction">
 
 
 ### Summary
 
-<img src="https://github.com/Jain-Sumit/SpendWise/assets/106157826/dc4b1a8d-6856-4c83-b0ec-63fa430c7e3f" width="250" height="700" alt="Summary">
+<img src="https://github.com/Jain-Sumit/SpendWise/assets/106157826/dc4b1a8d-6856-4c83-b0ec-63fa430c7e3f" width="300" height="650" alt="Summary">
 
+### Transaction History with Date Range Selection
+
+
+<img src="https://github.com/Jain-Sumit/SpendWise/assets/106157826/38b84ce0-9b51-4d9b-9f6f-83f928deb6f3" width="300" height="650" alt="Transaction History with Date Range Selection
+">
+
+
+### Manage Categories
+
+<img src="https://github.com/Jain-Sumit/SpendWise/assets/106157826/f3a8b486-29a7-44ce-9f55-9727fdf2e584" width="300" height="650" alt="Manage Categories">
+
+
+### User Profile and Logout Option
+
+<img src="https://github.com/Jain-Sumit/SpendWise/assets/106157826/161e8895-ac9c-4689-8b88-9123a58adb08" width="300" height="650" alt="User Profile and Logout Option">
 
 
 
