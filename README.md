@@ -14,7 +14,9 @@ SpendWise is an Android application built in Java for managing expenses and trac
 
 ## Screenshots
 ## User Login and SignUp 
-![Screenshot_20230604_192410](https://github.com/Jain-Sumit/SpendWise/assets/106157826/ad689dc4-bfb4-4f1e-b3bd-be6065b91c8d)
+<img src="![Screenshot_20230604_192410](https://github.com/Jain-Sumit/SpendWise/assets/106157826/ad689dc4-bfb4-4f1e-b3bd-be6065b91c8d)
+" alt="Login Page" width="300" />
+
 
 
 
